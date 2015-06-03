@@ -180,6 +180,13 @@ padding-right: 10px;
   .connect {
   display: block;
   }
+  .footer {
+  width: 100%;
+  }
+  	
+  .help-sec, .info-sec, .footer-logo {
+  text-align: center; 
+  }
  	
  }
 
