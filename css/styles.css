@@ -1,0 +1,144 @@
+.logo {
+    height: 80px;
+}
+.header {
+text-align: center;
+}
+.container-fluid {
+  background-color: #ffebd9;
+  padding: 0;
+}
+ .top-menu {
+  font-size: 17px;
+  margin-top: 50px;
+ }
+ .top-menu .col-sm-1 {
+  font-weight: bold;
+  width: 97.7px;
+  text-align: center;
+ }
+ .account, .wish {
+  margin-right: 10px;
+ }
+
+ .top-menu .col-sm-1:hover {
+    border-bottom: 3px solid #874c1c;
+    cursor: pointer;
+ } 
+.top-menu .col-sm-1,
+ .tagline .col-sm-1  {
+  color: #874c1c;
+ }
+ .tagline {
+  clear: both;
+ }
+ .tagline-img {
+  height:120px;
+  margin-left: 30%;
+ }
+ .tagline .col-sm-1 {
+    font-size: 40px;
+    margin-top: 10px;
+    left: 35%;
+    width: 180px;
+ }
+.panel {
+  margin-bottom: 0;
+}
+.form-control, .btn, label {
+  display: inline;
+  border-radius: 0;
+  
+}
+ .form-control {
+  width: 20%;
+ }
+ .list-group-item {
+  border: none;
+ }
+ div.bx-wrapper {
+  max-width: 60% !important;
+  background-color: white;
+ }
+ div.newsletter {
+  text-align: center;
+  background-color: #8c604c;
+  height: 65px;
+  color: white;
+ }
+ label[for="usr"]{
+  padding-right: 10px;
+ }
+ .newsletter .form-control {
+    margin-right: 10px;
+ }
+ .form-group {
+  margin-top: 15px;
+ }
+ .btn-default {
+  color: white;
+  background-color: #8c604c;
+  border-color: white;
+ }
+ .btn-default:hover {
+  background-color: white;
+  border-color: white;
+ } 
+ div.footer {
+  color: #8c604c;
+  width: 900px;
+  margin: 0 auto !important;
+  background-color: #ffebd9;
+ }
+ .list-group-item {
+  background-color: #ffebd9;
+ }
+ .help-sec {
+  float: left;
+ }
+ .list-group-item {
+  padding-left: 0;
+  padding-right: 0;
+ }
+ .info-sec {
+  float: right;
+ }
+ .footer-logo {
+  display: block;
+  margin-left: 180px;
+  height: 80px;
+  margin-top: 10px;
+ }
+ .footer .list-group-item:hover {
+  cursor: pointer;
+  font-weight: bold;
+  text-decoration: underline;
+ }
+ .social-icon {
+  width: 30px;
+ }
+ .socialmedia-icons {
+  width: 300px;
+  margin-top: 10px;
+margin-left: 150px;
+ }
+ .socialmedia-icons img {
+  padding-right: 5px;
+ }
+ .socialmedia-icons img:hover {
+  cursor: pointer;
+ } 
+ .connect {
+  font-size: 16px;
+font-weight: bold;
+padding-right: 10px;
+ }
+ hr {
+  margin: -15px 0 0 120px; 
+  border: 0; 
+  border-top: 1px solid #8c604c; 
+  width: 40%;
+ }
+
+ 
+
