@@ -139,6 +139,24 @@ padding-right: 10px;
   border-top: 1px solid #8c604c; 
   width: 40%;
  }
+ 
+ @media only screen and (max-width:767px) {
+ .tagline-img {
+ 	  width: 250px;
+	  height: 60px;
+  	margin-left: 5%;
+  }
+  .top-menu {
+  margin-top: 20px;
+  }
+  .top-menu div {
+  	display: inline;
+  }
+  .top-menu .col-sm-1 {
+  	padding: 0;
+  }
+ 	
+ }
 
  
 
