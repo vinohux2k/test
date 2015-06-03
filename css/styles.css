@@ -141,6 +141,9 @@ padding-right: 10px;
  }
  
  @media only screen and (max-width:767px) {
+ .mobile-hide {
+ display: none;
+ }
  .tagline-img {
  	  width: 250px;
 	  height: 60px;
@@ -163,6 +166,19 @@ padding-right: 10px;
   }
   .form-control {
   width: 60%;
+  }
+  .info-sec, .help-sec {
+  float: none;
+  }
+  .list-group-item {
+  display: inline;
+  padding-right: 10px;
+  }
+  .socialmedia-icons, .footer-logo {
+  	margin-left: 0;
+  }
+  .connect {
+  display: block;
   }
  	
  }
